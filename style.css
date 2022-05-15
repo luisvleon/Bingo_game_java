@@ -1,0 +1,68 @@
+.root
+{
+    -fx-background-color:#FFFFFF;
+	-fx-font-size: 12pt;
+	-fx-font-weight: 600;
+}
+
+
+.label {
+	-fx-font-family:cursive;
+	-fx-font-size: 14pt;
+	-fx-font-weight: 900;
+}
+
+.text-field {
+	-fx-font-family:cursive;
+	-fx-font-size: 12pt;
+	-fx-font-weight: 600;
+}
+
+
+.button {
+	-fx-font-size: 14pt;
+	-fx-font-weight: 900;
+}
+
+#title {
+	-fx-font-family:cursive;
+	-fx-font-size: 20pt;
+	-fx-font-weight: 900;
+	-fx-text-fill: blue;
+}
+
+#header2 {
+	-fx-font-family:cursive;
+	-fx-font-size: 17pt;
+	-fx-font-weight: 900;
+	-fx-text-fill: green;
+}
+
+#stalabel {
+	-fx-font-size: 12pt;
+	-fx-font-weight: 200;
+}
+
+#cards {
+    -fx-background-fill: black, white ;
+	-fx-background-insets: 0, 1 ;
+	-fx-border-style: solid inside;
+	-fx-border-width: 2;
+	-fx-border-color: blue;
+	-fx-border-radius: 5;
+	-fx-padding: 8;
+}
+
+#credits {
+	-fx-font-family:cursive;
+	-fx-font-size: 14pt;
+	-fx-font-weight: 600;
+	-fx-text-fill: blue;
+	-fx-border-style: solid inside;
+	-fx-border-width: 2;
+	-fx-border-color: blue;
+	-fx-border-radius: 5;
+	-fx-padding: 20;
+}
+
+
